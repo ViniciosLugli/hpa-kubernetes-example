@@ -248,7 +248,7 @@ watch -n 2 kubectl top pods
 
 ## Architecture
 
-[Architecture Diagram](./assets/schema.png)
+![Architecture Diagram](./assets/schema.png)
 
 ### Resources
 
