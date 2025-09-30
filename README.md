@@ -203,21 +203,21 @@ watch -n 2 kubectl top pods
 
 ### HPA Analysis
 
-**✅ Scale-Up Behavior**:
+**Scale-Up Behavior**:
 
 -   **Trigger Time**: ~30 seconds after load started
 -   **Response**: Fast and aggressive (1→3→6→10)
 -   **Policy**: 100% increase / +2 pods per 15s worked perfectly
 -   **Result**: Successfully reached max capacity to handle load
 
-**✅ Performance**:
+**Performance**:
 
 -   **CPU Distribution**: Efficiently distributed across 10 pods
 -   **Memory Usage**: Stable at 24Mi per pod
 -   **Node Distribution**: Pods scheduled across 2 worker nodes
 -   **Application**: Responsive throughout scaling events
 
-**✅ Configuration Validation**:
+**Configuration Validation**:
 
 -   Min/Max replicas: Correct (1-10)
 -   CPU target: 50% - appropriate for triggering
