@@ -1,0 +1,90 @@
+
+=== 09:02:40 ===
+php-apache-55948b6bd4-mqrlp   1m    29Mi   
+
+=== 09:02:50 ===
+php-apache-55948b6bd4-mqrlp   1m    29Mi   
+
+=== 09:03:01 ===
+php-apache-55948b6bd4-mqrlp   265m   42Mi   
+
+=== 09:03:11 ===
+php-apache-55948b6bd4-mqrlp   501m   49Mi   
+
+=== 09:03:21 ===
+php-apache-55948b6bd4-48vd6   505m   36Mi   
+php-apache-55948b6bd4-b5pdm   405m   19Mi   
+php-apache-55948b6bd4-mqrlp   501m   49Mi   
+
+=== 09:03:32 ===
+php-apache-55948b6bd4-48vd6   505m   36Mi   
+php-apache-55948b6bd4-b5pdm   405m   19Mi   
+php-apache-55948b6bd4-mqrlp   501m   49Mi   
+
+=== 09:03:42 ===
+php-apache-55948b6bd4-48vd6   351m   25Mi   
+php-apache-55948b6bd4-6q8dj   454m   35Mi   
+php-apache-55948b6bd4-b5pdm   419m   20Mi   
+php-apache-55948b6bd4-hr9wr   427m   20Mi   
+php-apache-55948b6bd4-mqrlp   396m   34Mi   
+php-apache-55948b6bd4-rzws6   360m   19Mi   
+
+=== 09:03:53 ===
+php-apache-55948b6bd4-48vd6   351m   25Mi   
+php-apache-55948b6bd4-6q8dj   431m   33Mi   
+php-apache-55948b6bd4-b5pdm   352m   19Mi   
+php-apache-55948b6bd4-hr9wr   293m   19Mi   
+php-apache-55948b6bd4-lh4tr   279m   15Mi   
+php-apache-55948b6bd4-mqrlp   334m   30Mi   
+php-apache-55948b6bd4-qpjdn   339m   18Mi   
+php-apache-55948b6bd4-rzws6   376m   19Mi   
+php-apache-55948b6bd4-xcncz   386m   24Mi   
+php-apache-55948b6bd4-xjrsr   294m   17Mi   
+
+=== 09:04:03 ===
+php-apache-55948b6bd4-48vd6   351m   25Mi   
+php-apache-55948b6bd4-6q8dj   431m   33Mi   
+php-apache-55948b6bd4-b5pdm   352m   19Mi   
+php-apache-55948b6bd4-hr9wr   293m   19Mi   
+php-apache-55948b6bd4-lh4tr   279m   15Mi   
+php-apache-55948b6bd4-mqrlp   334m   30Mi   
+php-apache-55948b6bd4-qpjdn   339m   18Mi   
+php-apache-55948b6bd4-rzws6   376m   19Mi   
+php-apache-55948b6bd4-xcncz   386m   24Mi   
+php-apache-55948b6bd4-xjrsr   294m   17Mi   
+
+=== 09:04:14 ===
+php-apache-55948b6bd4-48vd6   366m   20Mi   
+php-apache-55948b6bd4-6q8dj   363m   22Mi   
+php-apache-55948b6bd4-b5pdm   463m   23Mi   
+php-apache-55948b6bd4-hr9wr   329m   19Mi   
+php-apache-55948b6bd4-lh4tr   305m   15Mi   
+php-apache-55948b6bd4-mqrlp   352m   29Mi   
+php-apache-55948b6bd4-qpjdn   339m   18Mi   
+php-apache-55948b6bd4-rzws6   415m   19Mi   
+php-apache-55948b6bd4-xcncz   457m   19Mi   
+php-apache-55948b6bd4-xjrsr   313m   18Mi   
+
+=== 09:04:24 ===
+php-apache-55948b6bd4-48vd6   400m   22Mi   
+php-apache-55948b6bd4-6q8dj   355m   22Mi   
+php-apache-55948b6bd4-b5pdm   387m   19Mi   
+php-apache-55948b6bd4-hr9wr   399m   27Mi   
+php-apache-55948b6bd4-lh4tr   309m   17Mi   
+php-apache-55948b6bd4-mqrlp   302m   30Mi   
+php-apache-55948b6bd4-qpjdn   362m   19Mi   
+php-apache-55948b6bd4-rzws6   375m   19Mi   
+php-apache-55948b6bd4-xcncz   409m   17Mi   
+php-apache-55948b6bd4-xjrsr   375m   24Mi   
+
+=== 09:04:35 ===
+php-apache-55948b6bd4-48vd6   400m   22Mi   
+php-apache-55948b6bd4-6q8dj   355m   22Mi   
+php-apache-55948b6bd4-b5pdm   387m   19Mi   
+php-apache-55948b6bd4-hr9wr   399m   27Mi   
+php-apache-55948b6bd4-lh4tr   309m   17Mi   
+php-apache-55948b6bd4-mqrlp   302m   30Mi   
+php-apache-55948b6bd4-qpjdn   362m   19Mi   
+php-apache-55948b6bd4-rzws6   375m   19Mi   
+php-apache-55948b6bd4-xcncz   409m   17Mi   
+php-apache-55948b6bd4-xjrsr   375m   24Mi   

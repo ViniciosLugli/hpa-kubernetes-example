@@ -1,0 +1,108 @@
+
+=== 09:02:40 ===
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     8m17s
+
+=== 09:02:50 ===
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     8m27s
+
+=== 09:03:00 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     3s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     3s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     8m38s
+
+=== 09:03:11 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     13s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     13s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     8m48s
+
+=== 09:03:21 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     23s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     8s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     23s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     8s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     8m58s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     8s
+
+=== 09:03:31 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     34s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     19s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     34s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     19s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     4s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     9m9s
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     4s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     19s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     4s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     4s
+
+=== 09:03:42 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     44s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     29s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     44s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     29s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     14s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     9m19s
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     14s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     29s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     14s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     14s
+
+=== 09:03:52 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     55s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     40s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     55s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     40s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     25s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     9m30s
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     25s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     40s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     25s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     25s
+
+=== 09:04:03 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     65s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     50s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     65s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     50s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     35s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     9m40s
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     35s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     50s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     35s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     35s
+
+=== 09:04:14 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     76s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     61s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     76s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     61s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     46s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     9m51s
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     46s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     61s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     46s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     46s
+
+=== 09:04:24 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     86s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     71s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     86s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     71s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     56s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     10m
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     56s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     71s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     56s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     56s
+
+=== 09:04:34 ===
+php-apache-55948b6bd4-48vd6   1/1   Running   0     97s
+php-apache-55948b6bd4-6q8dj   1/1   Running   0     82s
+php-apache-55948b6bd4-b5pdm   1/1   Running   0     97s
+php-apache-55948b6bd4-hr9wr   1/1   Running   0     82s
+php-apache-55948b6bd4-lh4tr   1/1   Running   0     67s
+php-apache-55948b6bd4-mqrlp   1/1   Running   0     10m
+php-apache-55948b6bd4-qpjdn   1/1   Running   0     67s
+php-apache-55948b6bd4-rzws6   1/1   Running   0     82s
+php-apache-55948b6bd4-xcncz   1/1   Running   0     67s
+php-apache-55948b6bd4-xjrsr   1/1   Running   0     67s

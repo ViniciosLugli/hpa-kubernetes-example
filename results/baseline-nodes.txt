@@ -1,0 +1,4 @@
+NAME                     CPU(cores)   CPU(%)   MEMORY(bytes)   MEMORY(%)   
+hpa-demo-control-plane   95m          1%       1022Mi          26%         
+hpa-demo-worker          18m          0%       380Mi           9%          
+hpa-demo-worker2         14m          0%       331Mi           8%          

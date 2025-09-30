@@ -1,0 +1,30 @@
+4m21s       Normal    Scheduled                      pod/php-apache-55948b6bd4-qpjdn          Successfully assigned default/php-apache-55948b6bd4-qpjdn to hpa-demo-worker
+4m21s       Normal    Scheduled                      pod/php-apache-55948b6bd4-xjrsr          Successfully assigned default/php-apache-55948b6bd4-xjrsr to hpa-demo-worker
+4m20s       Normal    Pulled                         pod/php-apache-55948b6bd4-xjrsr          Container image "php-apache:local" already present on machine
+4m20s       Normal    Pulled                         pod/php-apache-55948b6bd4-xcncz          Container image "php-apache:local" already present on machine
+4m20s       Normal    Pulled                         pod/php-apache-55948b6bd4-lh4tr          Container image "php-apache:local" already present on machine
+4m20s       Normal    Created                        pod/php-apache-55948b6bd4-lh4tr          Created container: php-apache
+4m20s       Normal    Created                        pod/php-apache-55948b6bd4-xcncz          Created container: php-apache
+4m20s       Normal    Created                        pod/php-apache-55948b6bd4-xjrsr          Created container: php-apache
+4m20s       Normal    Pulled                         pod/php-apache-55948b6bd4-qpjdn          Container image "php-apache:local" already present on machine
+4m20s       Normal    Created                        pod/php-apache-55948b6bd4-qpjdn          Created container: php-apache
+4m19s       Normal    Started                        pod/php-apache-55948b6bd4-qpjdn          Started container php-apache
+4m19s       Normal    Started                        pod/php-apache-55948b6bd4-xcncz          Started container php-apache
+4m19s       Normal    Started                        pod/php-apache-55948b6bd4-lh4tr          Started container php-apache
+4m19s       Normal    Started                        pod/php-apache-55948b6bd4-xjrsr          Started container php-apache
+36s         Normal    Killing                        pod/php-apache-55948b6bd4-6q8dj          Stopping container php-apache
+36s         Normal    Killing                        pod/php-apache-55948b6bd4-xjrsr          Stopping container php-apache
+36s         Normal    ScalingReplicaSet              deployment/php-apache                    Scaled down replica set php-apache-55948b6bd4 from 10 to 5
+36s         Normal    Killing                        pod/php-apache-55948b6bd4-qpjdn          Stopping container php-apache
+36s         Normal    SuccessfulDelete               replicaset/php-apache-55948b6bd4         (combined from similar events): Deleted pod: php-apache-55948b6bd4-xcncz
+36s         Normal    Killing                        pod/php-apache-55948b6bd4-xcncz          Stopping container php-apache
+36s         Normal    Killing                        pod/php-apache-55948b6bd4-b5pdm          Stopping container php-apache
+36s         Normal    SuccessfulRescale              horizontalpodautoscaler/php-apache-hpa   New size: 5; reason: All metrics below target
+21s         Normal    Killing                        pod/php-apache-55948b6bd4-lh4tr          Stopping container php-apache
+21s         Normal    SuccessfulRescale              horizontalpodautoscaler/php-apache-hpa   New size: 2; reason: All metrics below target
+21s         Normal    Killing                        pod/php-apache-55948b6bd4-48vd6          Stopping container php-apache
+21s         Normal    ScalingReplicaSet              deployment/php-apache                    (combined from similar events): Scaled down replica set php-apache-55948b6bd4 from 5 to 2
+21s         Normal    Killing                        pod/php-apache-55948b6bd4-hr9wr          Stopping container php-apache
+6s          Normal    SuccessfulRescale              horizontalpodautoscaler/php-apache-hpa   New size: 1; reason: All metrics below target
+6s          Normal    Killing                        pod/php-apache-55948b6bd4-rzws6          Stopping container php-apache
+6s          Normal    ScalingReplicaSet              deployment/php-apache                    Scaled down replica set php-apache-55948b6bd4 from 2 to 1
