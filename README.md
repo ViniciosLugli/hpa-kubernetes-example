@@ -248,47 +248,7 @@ watch -n 2 kubectl top pods
 
 ## Architecture
 
-```mermaid
-graph TB
-    subgraph cluster["kind Cluster - hpa-demo"]
-        subgraph cp["Control Plane"]
-            API[API Server]
-            HPA["HPA Controller<br/>Target: 50% CPU<br/>Min: 1 - Max: 10"]
-        end
-
-        subgraph w1["Worker Node 1"]
-            POD1[Pod 1]
-            POD2[Pod 2]
-            POD3[Pod 3]
-            POD4[Pod 4]
-            POD5[Pod 5]
-        end
-
-        subgraph w2["Worker Node 2"]
-            POD6[Pod 6]
-            POD7[Pod 7]
-            POD8[Pod 8]
-            POD9[Pod 9]
-            POD10[Pod 10]
-        end
-
-        MS["Metrics Server<br/>Resource Metrics API"]
-        SVC["Service<br/>NodePort 30080 to 80"]
-    end
-
-    LT["Load Test<br/>Apache Bench"]
-
-    LT -->|Port 8080| SVC
-    SVC --> POD1 & POD2 & POD3 & POD4 & POD5 & POD6 & POD7 & POD8 & POD9 & POD10
-    MS -->|CPU Metrics| HPA
-    HPA -->|Scale Decision| API
-    API -->|Create/Delete Pods| POD1 & POD6
-
-    style HPA fill:#e1f5ff
-    style MS fill:#fff3e0
-    style SVC fill:#f3e5f5
-    style LT fill:#ffebee
-```
+[Architecture Diagram](./assets/schema.png)
 
 ### Resources
 
