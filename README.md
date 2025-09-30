@@ -2,8 +2,6 @@
 
 Kubernetes cluster with Horizontal Pod Autoscaler (HPA) for auto-scaling PHP(🤮)+Apache(👴) application based on CPU utilization.
 
----
-
 ## Demo
 
 Cumming Soon... 💦
@@ -21,6 +19,7 @@ Cumming Soon... 💦
 
 ## Prerequisites
 
+-   Please use a Linux environment 🤙
 -   Docker
 -   kubectl
 -   kind
